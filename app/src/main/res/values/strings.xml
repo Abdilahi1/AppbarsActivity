@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppbarsActivity</string>
+    <string name="welcome_to_the_app">Welcome to the App</string>
+    <string name="todo">TODO</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="profile">Profile</string>
+    <string name="share" />
+    <string name="Share" />
+</resources>
